@@ -1,4 +1,5 @@
-![1024x1024](docs/images/icon1024.png)
+<img src="docs/images/icon1024.png" width="256">
+
 # DDTools Pro
 ##### (ddtoolsAX)
 
