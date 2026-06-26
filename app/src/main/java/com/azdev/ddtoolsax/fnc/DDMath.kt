@@ -8,7 +8,7 @@
  * ૮ ․ ․ ა
  */
 
-package com.azdev.ddtoolsax.ddmath
+package com.azdev.ddtoolsax.fnc
 
 /////////////
 // IMPORTS //
